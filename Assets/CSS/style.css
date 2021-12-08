@@ -216,6 +216,9 @@ html {
         height: 60%;
         margin: 5px;
     }
+    #me p {
+        font-size: smaller;
+    }
 }
 /* Dimensions of iphone x on inspect */
 /* @media screen and (max-width:375px) {
