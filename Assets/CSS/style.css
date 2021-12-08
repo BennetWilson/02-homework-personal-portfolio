@@ -219,7 +219,27 @@ html {
     #me p {
         font-size: smaller;
     }
-}
+    .navbar ul li a {
+        text-decoration: none;
+        padding: 5px 5px;
+    }
+    #home {
+        display: flex;
+        flex-direction: column;
+        background-color: var(--background);
+        height: 300px;
+        justify-content: center;
+        align-items: center;
+    }
+    .main .headings{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: absolute;
+        top: 7%;
+        right:25%;
+    }
+
 /* Dimensions of iphone x on inspect */
 /* @media screen and (max-width:375px) {
     /* #home {
