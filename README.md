@@ -1,20 +1,27 @@
-=== Personal Portfolio Homework 02 ===
+# Personal Portfolio Homework 02
 
-=== Description ===
+# Updated:
+
+I have added updated portfolio images as well as links to my projects accessible by clicking each image.
+
+I have updated the README.md links and how I linked the images.
+
+I added bootstrap links and will  be updating this project over the holiday break.
+
+For the time being, my instructor has advised us to put very little effort into this homework as we have a group project that is a higher priority.
+
+
+## Description
 I made a personal portfolio that displays a nav bar with buttons, a large section with my name, a section about me, a portfolio section and a contact me section.
 I made this website using HTML and CSS
+ 
+ ## A link to my website on github 
+[Link to my deployed application](https://bennetwilson.github.io/02-homework-personal-portfolio/)
 
-I used several sources while doing this project as I needed help with css positioning. I used MDN docs: [a link](https://developer.mozilla.org/en-US/docs/Web/CSS/position) 
-I found i could not grasp the concept well enough through reading so i found a youtube video  that I used as a reference for how to position certain elements and how to design a contact me section without having to put personal information on the web.
-[a link](https://www.youtube.com/watch?v=zX3ikOsQg58&list=FLiUf77kqttt-k_2JSR70LDw&index=1&ab_channel=TutorialsDev) 
+## Screen Shots of my website and of the inspect on the website
+![capture1](https://user-images.githubusercontent.com/90366376/147174726-1d705b6c-a3a5-41d6-8869-3748f68f2d22.PNG)
+![capture2](https://user-images.githubusercontent.com/90366376/147174742-8c53c45d-8f84-4298-9e11-e1a266ed264d.PNG)
+![capture3](https://user-images.githubusercontent.com/90366376/147174756-af81066b-33a0-48a3-9aae-58f8d8134da2.PNG)
 
 
- === A link to my website on github ===
-[a link](https://bennetwilson.github.io/02-homework-personal-portfolio/)
 
-=== Screen Shots of my website and of the inspect on the website ===
-![alt text](Assets\capture1.PNG)
-![alt text](Assets\capture2.PNG)
-![alt text](Assets\capture3.PNG)
-![alt text](Assets\capture-inspect-1.PNG)
-![alt text](Assets\captuer-inspect-2.PNG)
